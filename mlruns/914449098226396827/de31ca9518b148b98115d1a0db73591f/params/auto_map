@@ -1,0 +1,1 @@
+{'AutoConfig': 'microsoft/Phi-3-mini-4k-instruct--configuration_phi3.Phi3Config', 'AutoModelForCausalLM': 'microsoft/Phi-3-mini-4k-instruct--modeling_phi3.Phi3ForCausalLM'}

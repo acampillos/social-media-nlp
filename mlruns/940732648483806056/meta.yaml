@@ -1,0 +1,6 @@
+artifact_location: file:///home/acampillos/Desktop/Universidad/Master/TFM/project2/mlruns/940732648483806056
+creation_time: 1717929798584
+experiment_id: '940732648483806056'
+last_update_time: 1717929798584
+lifecycle_stage: active
+name: tweet_eval/distilbert/distilbert-base-uncased

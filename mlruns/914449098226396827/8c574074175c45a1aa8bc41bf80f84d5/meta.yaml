@@ -1,0 +1,15 @@
+artifact_uri: file:///home/acampillos/Desktop/Universidad/Master/TFM/project2/mlruns/914449098226396827/8c574074175c45a1aa8bc41bf80f84d5/artifacts
+end_time: 1718216424263
+entry_point_name: ''
+experiment_id: '914449098226396827'
+lifecycle_stage: active
+run_id: 8c574074175c45a1aa8bc41bf80f84d5
+run_name: rank_32_alpha_32_epochs_1_train_2500_val_500
+run_uuid: 8c574074175c45a1aa8bc41bf80f84d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718215485297
+status: 3
+tags: []
+user_id: acampillos

@@ -1,0 +1,6 @@
+artifact_location: file:///home/acampillos/Desktop/Universidad/Master/TFM/project2/mlruns/926361490453182275
+creation_time: 1717908484301
+experiment_id: '926361490453182275'
+last_update_time: 1717908484301
+lifecycle_stage: active
+name: tweet_eval/google-bert/bert-base-uncased
