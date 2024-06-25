@@ -197,7 +197,7 @@ To visualize the logs from MLFlow used in the training and hyperparameter tuning
 
 <br>
 
-## Referemces
+## References
 
 * Rosenthal, S., Farra, N., & Nakov, P. (2017). SemEval-2017 task 4: Sentiment analysis in Twitter. In *Proceedings of the 11th international workshop on semantic evaluation (SemEval-2017)* (pp. 502-518).
 
