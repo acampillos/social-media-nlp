@@ -52,7 +52,6 @@ def main():
     mlflow.set_experiment(
         f"tweet_eval/{pretrained_model_name_or_path}/{time.strftime('%Y-%m-%d')}"
     )
-    mlflow.set_tracking_uri(f"file://{log_dir}")  # TODO: fix not working
     mlflow.enable_system_metrics_logging()
 
     # Training setup
