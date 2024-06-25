@@ -2,7 +2,7 @@
 
 Sentiment analysis involves analyzing digital text to determine whether the emotional tone is positive, negative, or neutral. This analysis provides valuable insights for companies to enhance customer service and increase brand reputation.
 
-This project aims to explore, train, and compare multiple machine learning models for sentiment analysis using textual data sourced from social media. Specifically, it investigates the effectiveness of different pretrained language models, comparing encoder-only and decoder-only models (known as LLM) variants, and evaluates their performance, data requirements and efficiency based on parameter count.
+The project aims to explore, train, and compare multiple machine learning models for sentiment analysis using textual data sourced from social media. Specifically, it investigates the effectiveness of different pretrained language models, comparing encoder-only and decoder-only models (known as LLM) variants, and evaluates their performance, data requirements and efficiency based on parameter count.
 
 Beyond model training, the project includes comprehensive exploratory data analysis, which provides actionable intelligence for marketing strategies using insights such as popular hashtags or emerging trends. A general analysis and detailed hashtag analysis is performed, integrating various supervised and unsupervised techniques, including graph analysis and semantic clustering.
 
