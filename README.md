@@ -1,4 +1,4 @@
-# Applications of Data Sciente to Marketing: Sentiment Analysis
+# Sentiment Analysis on Social Media using Language Models
 
 Sentiment analysis involves analyzing digital text to determine whether the emotional tone is positive, negative, or neutral. This analysis provides valuable insights for companies to enhance customer service and increase brand reputation.
 
